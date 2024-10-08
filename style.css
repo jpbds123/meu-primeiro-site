@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{  
+     --uva: #6f2dbdff;
+    --ametista: #a663ccff;
+    --rosa : #b298dcff;
+    --columbia-blue: #b8d0ebff;
+   --celeste: #b9faf8ff;
+   --fonte-titulo:"Merriweather", serif;
+   --fonte-texto:"Bebas Neue", sans-serif;
+}
 h1{
-    background-color: rgb(70, 223, 223);
+background-color: darkorchid;
+}
+
+
+body{
+ background-color:var(--uva) ;
+}
+.cabecalho{
+    background-color: var(--uva);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
