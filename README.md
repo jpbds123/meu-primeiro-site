@@ -1,2 +1,1 @@
-# 2024-meu-primeiro-site
-meu primeiro site em HTML  e CSS
+# 2024-1DS-HTML-JS
